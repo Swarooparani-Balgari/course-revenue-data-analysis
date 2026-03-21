@@ -16,7 +16,7 @@ Analyze course data to understand revenue distribution, instructor performance, 
 - Evaluated category-wise revenue
 - Created visualizations for trends
 
-![Dashboard]: 
+![Dashboard: Dashboard.png]
 
 ### Key Insights
 - Certain courses generate higher revenue
