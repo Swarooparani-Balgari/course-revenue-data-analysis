@@ -19,9 +19,9 @@ Analyze course data to understand revenue distribution, instructor performance, 
 ![Dashboard: Dashboard.png]
 
 ### Key Insights
-- Certain courses generate higher revenue
-- Instructor performance varies significantly
-- Some categories dominate total revenue
+- Web Development course generates the higher revenue
+- Instructor Ankit generates highest revenue among all the instructors
+- Data category dominates the Programming category total revenue
 - Revenue distribution is uneven across courses
 
 ### Files Included
