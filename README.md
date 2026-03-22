@@ -25,7 +25,7 @@ Analyze course data to understand revenue distribution, instructor performance, 
 - Revenue distribution is uneven across courses
 
 ### Files Included
-- data.xlsx
-- queries.sql
-- analysis.py
-- dashboard.pbix
+- dataset.xlsx
+- course_analysis.sql
+- course_analysis.py
+- course_analysis.pbix
